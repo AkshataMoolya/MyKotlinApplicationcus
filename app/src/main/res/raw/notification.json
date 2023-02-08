@@ -1,0 +1,18 @@
+[
+  {
+    "title":"Notification 1",
+    "notification":"New Offer"
+  },
+  {
+    "title":"Notification 2",
+    "notification":"Shop Now and get discounts"
+  },
+  {
+    "title":"Notification 3",
+    "notification":"New products available"
+  },
+  {
+    "title":"Notification 4",
+    "notification":"Update Available"
+  }
+]

@@ -1,0 +1,90 @@
+<resources>
+    <string name="app_name">Farm2App</string>
+    <string name="Type_your_Email">Type your Email</string>
+    <string name="Type_your_Password">Type Your Password</string>
+    <string name="Retype_your_Password">Retype Your Password</string>
+    <string name="title_activity_menu_main">MenuMainActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!--main screen-->
+    <string name="skip">Skip</string>
+    <string name="getstarted">Get Started</string>
+
+    <!--home screen-->
+    <string name="greetings">Hello</string>
+    <string name="username">Akshata Moolya</string>
+    <string name="search">Search Here</string>
+
+    <!--password Screen-->
+    <string name="passwordpagestring">Enter your Registered phone number so that we can help you to reset the password</string>
+    <string name="enterphonenumber">Type your Phonenumber</string>
+    <string name="getotp">Get OTP</string>
+
+    <!--otp screen-->
+    <string name="otppagestring">OTP has been sent to your Registered phone number</string>
+    <string name="enterotp">Enter OTP</string>
+    <string name="verifyotp">Verify OTP</string>
+
+    <!--Signup and signin screen-->
+    <string name="enteremail">Type your Email</string>
+    <string name="username1">Type your Name</string>
+    <string name="enterpassword">Type Your Password</string>
+    <string name="reenterpassword">Retype Your Password</string>
+    <string name="allreadyregistered">Already Registered , <b>Sign In !</b></string>
+    <string name="signup">Sign Up</string>
+    <string name="signin">Sign In</string>
+    <string name="enterdetails">Enter Details</string>
+    <string name="forgotpassword"><u>Forgot Password</u></string>
+    <string name="notregistered">Not Registered Yet , <b>Sign Up !</b></string>
+
+
+    <!--reset password screen-->
+    <string name="resetpage">You can type new password and confirm it below</string>
+    <string name="confirm">Confirm</string>
+
+
+    <!--
+    reset password successful
+-->
+
+    <string name="resetsuccess">        You successfully reset your password now
+                             <br>you are good to go</br></string>
+    <string name="congratulation">Congratulations</string>
+    <string name="jumptologin">Jump into login</string>
+
+
+    <string name="map">Kotlin Google Map Current Location</string>
+    <string name="title_activity_maps">Map Current Location</string>
+
+
+    <string-array name="profile">
+        <item>Order</item>
+        <item>My Details</item>
+        <item>Payment Methods</item>
+        <item>Delivery Address</item>
+        <item>Notifications</item>
+        <item>Helps</item>
+        <item>Contact Us</item>
+        <item>Logout</item>
+    </string-array>
+
+    <string-array name="profileimg">
+        <item>@drawable/orderimg</item>
+        <item>@drawable/detailsimg</item>
+        <item>@drawable/paymentimg</item>
+        <item>@drawable/deliveryaddressimg</item>
+        <item>@drawable/notificationsimg</item>
+        <item>@drawable/helpimg</item>
+        <item>@drawable/contactimg</item>
+        <item>@drawable/logoutimg</item>
+    </string-array>
+</resources>

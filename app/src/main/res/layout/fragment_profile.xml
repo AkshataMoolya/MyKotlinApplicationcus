@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    tools:context=".fragments.ProfileFragment">
+
+<ImageView
+    android:id="@+id/backoption"
+    android:layout_width="35dp"
+    android:layout_height="35dp"
+    android:layout_marginTop="30dp"
+    android:layout_marginLeft="20dp"
+    android:src="@drawable/backarrow"></ImageView>
+
+
+    <TextView
+        android:id="@+id/profiletext"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="30dp"
+        android:gravity="center"
+        android:text="Profile"
+        android:textColor="@color/black"
+        android:textSize="30dp"
+        android:textStyle="bold" />
+
+
+    <ImageView
+        android:id="@+id/userimage"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_centerHorizontal="true"
+        android:layout_gravity="center"
+        android:layout_marginTop="100dp"
+        android:src="@drawable/usericonprofile"></ImageView>
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/profilelist"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/userimage"
+        android:layout_marginTop="30dp"></androidx.recyclerview.widget.RecyclerView>
+
+</RelativeLayout>

@@ -1,0 +1,34 @@
+[
+{
+"name":"Order",
+"image":"https://cdn-icons-png.flaticon.com/512/9167/9167013.png"
+},
+{
+"name":"My Details",
+"image":"https://cdn-icons-png.flaticon.com/512/6533/6533151.png"
+},
+{
+"name":"Payment Methods",
+"image":"https://cdn-icons-png.flaticon.com/512/3080/3080697.png"
+},
+  {
+    "name":"Delivery Address",
+    "image":"https://cdn-icons-png.flaticon.com/512/8432/8432282.png"
+  },
+  {
+    "name":"Notifications",
+    "image":"https://cdn-icons-png.flaticon.com/512/8338/8338828.png"
+  },
+  {
+    "name":"Helps",
+    "image":"https://cdn-icons-png.flaticon.com/512/9251/9251447.png"
+  },
+  {
+    "name":"Contact Us",
+    "image":"https://cdn-icons-png.flaticon.com/512/3059/3059434.png"
+  },
+  {
+    "name":"Logout",
+    "image":"https://cdn-icons-png.flaticon.com/512/4034/4034233.png"
+  }
+]
